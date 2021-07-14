@@ -1,6 +1,6 @@
 # Hostowanie aplikacji .NET 5 na urządzeniu Raspberry PI
 Zapraszam do obejrzenia materiału przedstawiającego jak za pomocą RaspberryPI oraz systemu RaspbianOS wyhostować aplikację stworzoną w ASP.NET MVC.
-Link do filmu [Hostowanie aplikacji utworzonej w .NET 5 na RaspberryPI](https://www.google.com)
+Link do filmu [Hostowanie aplikacji utworzonej w .NET 5 na RaspberryPI](https://www.youtube.com/watch?v=qc5DCvwZAkY)
 
 ## Uploadowanie aplikacji .NET 5
 Kod aplikacji znajdziesz w katalogu **src**  
